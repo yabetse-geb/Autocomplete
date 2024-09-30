@@ -1,9 +1,7 @@
 """
-6.101 Lab:
 Autocomplete
 """
 
-# NO ADDITIONAL IMPORTS!
 import doctest
 from text_tokenize import tokenize_sentences
 
